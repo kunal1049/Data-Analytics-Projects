@@ -1,6 +1,6 @@
-# Data-Analytics-Projects
+# Projects
 - Hello, I am Kunal Ghaware, comleted my Bachelors in Information Technology and my post-degree certification course in Data Analytics for Business.
-- In this repository I have created few projects that are related to my feild of study(Data Analytics).
+- In this repository I have created few projects that are related to my feild of study(Data Analytics and Full Stack Developer).
 - Few of the projects that I have created are as follows:-
 1. Data Visualization for Netflix dataset using SQL and Tableau - In this project, I have used SQL for cleaning and for statistical analysis of the dataset and passed the cleaned dataset to Tableau for visualization.
 2. Covid Tweet Prediction using NLP - Here I have trained a model for classifying the covid tweet into positive, neutral and negative using the NLP techniques.
