@@ -2,7 +2,7 @@
 # Data Modeling with Postgres
 
 ## **Overview**
-In this project, we apply Data Modeling with Postgres and build an ETL pipeline using Python. This project focused on analyzing the data which has been collected on songs and user activity on the new music streaming app. 
+In this project, I apply Data Modeling with Postgres and build an ETL pipeline using Python. This project focused on analyzing the data which has been collected on songs and user activity on the new music streaming app. 
 
 
 ## **Song Dataset**
