@@ -8,4 +8,4 @@
 5. Data Visualization using PowerBI - In this project, I have worked arounf with amazon's sales dataset. I have imported the data into powerBI and then cleaned and trasformed the data using PowerQuery and loaded the cleaned data into powerBI framework for analysis. 
 6. Money Expense - In this project I used my Java Skills for making a demo dashboard for your money expense and export it to excel sheet. In this I used CRUD Operation and created workspaces for different types of expenses.
 7. Bank System using Python and MySQL - In this project, I have build a Banking System using Python and MySQL. I used SQL connector to connect mysql dataset to python and extracted and loaded the data using the same. There are various options using which you can create a account, withdraw amount, deposit amount and set you balance.
-8. Data Modeling with Postgred - 
+8. Data Modeling with Postgred - In this project, I apply Data Modeling with Postgres and build an ETL pipeline using Python. This project focused on analyzing the data which has been collected on songs and user activity on the new music streaming app.
